@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "vendorinformationlistview-client-side-solution",
+    "id": "b2905365-d5af-44a9-b8f3-cf0eb9ae81d4",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/vendorinformationlistview.sppkg"
+  }
+}
